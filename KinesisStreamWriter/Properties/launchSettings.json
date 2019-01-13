@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KinesisStreamWriter": {
+      "commandName": "Project",
+      "commandLineArgs": "CiQMmHUEg69t3BDOvpiuj/11dGLXujrh+Y4nTRR2 10"
+    }
+  }
+}
